@@ -1,0 +1,7 @@
+.backImg{
+    background: url("../../assets/background.png");
+    height: 350px;
+    width: 90%;
+    border-radius: 30px;
+    margin: auto;
+}
